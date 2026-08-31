@@ -1,0 +1,9 @@
+dataset: "reanalysis-era5-single-levels"
+variables:
+  - "10m_u_component_of_wind"
+  - "10m_v_component_of_wind"
+spatial_resolution: 0.25
+temporal_resolution: "1H"
+margin_degrees: 0.5
+max_temporal_mismatch_minutes: 30
+format: "netcdf"

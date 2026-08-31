@@ -1,0 +1,6 @@
+stationary_slow_threshold_ms: 0.03
+low_speed_regime_model: persistence
+high_speed_regime_model: physics_b
+coordinate_system: EPSG:3031
+supported_prediction_target: displacement
+units: meters

@@ -1,0 +1,14 @@
+product:
+  id: GLOBAL_MULTIYEAR_PHY_001_030
+  dataset_id: cmems_mod_glo_phy_my_0.083deg_P1D-m
+  variables:
+    - uo  # eastward sea-water velocity
+    - vo  # northward sea-water velocity
+  depth:
+    target: surface
+    min_depth: 0.493
+    max_depth: 0.4942 
+
+subset:
+  spatial_margin_degrees: 2.0
+  temporal_margin_days: 1

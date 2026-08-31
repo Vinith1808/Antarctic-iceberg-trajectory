@@ -1,0 +1,6 @@
+cdsapi>=0.6.1
+xarray
+netCDF4
+pandas
+pyarrow
+pyyaml

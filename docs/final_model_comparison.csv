@@ -1,0 +1,8 @@
+Model,Mean_EPE_m
+Regime Hybrid,13125.16
+Physics Model B,14279.72
+Constant Velocity,15101.83
+Physics Model A,15855.45
+Persistence,17089.97
+Vanilla LSTM,19234.16
+Physics + Residual LSTM,19535.51

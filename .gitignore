@@ -1,0 +1,20 @@
+# Environments
+.venv/
+.env
+
+# Data
+data/raw/
+data/interim/
+data/processed/
+
+# Model Checkpoints
+models/*.pt
+models/*.pth
+models/*.h5
+models/*.pkl
+*.ckpt
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
